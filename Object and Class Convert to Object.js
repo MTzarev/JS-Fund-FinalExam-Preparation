@@ -6,9 +6,6 @@ for (const key of data) {
     console.log(`${key}: ${info[key]}`)
     
 }
-
-
-
     console.log();
 }
 convertToObject('{"First Name": "George", "Age": 40, "Town from": "Sofia"}');
